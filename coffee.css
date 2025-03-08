@@ -1,0 +1,62 @@
+*{
+    margin: 0%;
+    background-color: saddlebrown;
+}
+
+
+
+.header{
+    background-color: saddlebrown;
+    align-items: center;
+    list-style: none;
+    font-style: initial;
+    color: white;
+
+}
+.img h4{
+    margin-left: 10px;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.header img{
+    width: 205px;
+    height: 300px;
+    border-radius: 20px;
+}
+.header ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+
+}
+.main{
+    background-color: saddlebrown;
+    display: flex;
+    border-radius: 50px 50;
+    
+}
+.main-left h1{
+    color: darkorange;
+}
+.main-left btns main{
+    margin-top: 100px;
+    border-radius:  50px;
+    color: rgb(87, 59, 39);
+    
+
+}
+.main-left{
+    margin: 100px;
+
+}
+
+
+
+   
+
+.main-right{
+    padding-top: 120px;
+    background-color: saddlebrown;
+}
